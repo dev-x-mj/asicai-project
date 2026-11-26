@@ -196,5 +196,5 @@ Licencia del código de este repositorio: **[por definir con ASICAI y UNIR]**.
 ## Autoría
 
 **Christian Masaquiza Jerez** — Máster en Inteligencia Artificial, UNIR.
-Tutor de prácticas (empresa): Ing. Andrés Álvarez, Gerente General, ASICAI.
-Contacto: [completar].
+Tutor de prácticas (ASICAI): Ing. Andrés Álvarez, Gerente General, ASICAI.
+
