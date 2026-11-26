@@ -1,0 +1,9 @@
+# Datos confidenciales de ASICAI (¡NO SUBIR!)
+data/real_private/
+*.JPG
+*.csv
+
+# Entorno virtual y caché de Python
+venv/
+__pycache__/
+*.pyc

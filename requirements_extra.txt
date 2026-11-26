@@ -1,0 +1,10 @@
+numpy
+opencv-python
+pillow
+matplotlib
+scipy
+dji-thermal-cli   # °C reales de los R-JPEG (terceros, AGPL-3.0; validar contra DJI Thermal Analysis Tool)
+# Pruebas con modelos (opcionales):
+# onnxruntime huggingface_hub   -> transfer_insplad.py (modelo no comercial)
+# torch transformers            -> zero_shot_owl.py (OWLv2, Apache 2.0)
+# ultralytics                   -> train_yolo.py

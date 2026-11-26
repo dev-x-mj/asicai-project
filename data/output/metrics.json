@@ -1,0 +1,8 @@
+{
+  "verdaderos_positivos": 17,
+  "falsos_negativos": 0,
+  "falsos_positivos": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0
+}
